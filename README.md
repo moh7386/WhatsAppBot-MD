@@ -24,7 +24,7 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-running%20with%20bugs!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <br>
 <p align="left">
@@ -93,7 +93,7 @@
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://replit.com/@Alien-Alfa/ALIEN-ALFA-BOT-MD"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://alien-alfa-md.up.railway.app"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Change Session In Github`
 
